@@ -1,3 +1,10 @@
+# Notice
+
+This repo is no longer active. Code is moved to [ballerina-platform/setup-ballerina](https://github.com/ballerina-platform/setup-ballerina/), the Official Ballerina repository.
+
+----
+
+
 [![Test Ubuntu](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-ubuntu.yml/badge.svg?branch=main)](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-ubuntu.yml)
 [![Test Windows](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-windows.yml/badge.svg?branch=main)](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-windows.yml)
 [![Test Action](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-macos.yml/badge.svg?branch=main)](https://github.com/hasithaa/setup-ballerina/actions/workflows/test-macos.yml)
