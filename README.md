@@ -1,6 +1,6 @@
 # Notice
 
-This repo is no longer active. Code is moved to [ballerina-platform/setup-ballerina](https://github.com/ballerina-platform/setup-ballerina/), the Official Ballerina repository.
+Please note that this repository is no longer active. The code has been moved to [ballerina-platform/setup-ballerina](https://github.com/ballerina-platform/setup-ballerina/), which is now the official Ballerina repository for the setup-ballerina GitHub Action. Please update any references or links to the new repository location to ensure you are using the latest version of the action. Thank you for your cooperation in keeping up-to-date with the Ballerina community's latest developments.
 
 ----
 
